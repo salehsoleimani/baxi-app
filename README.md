@@ -135,8 +135,6 @@ here are our best practices for trying to have a maintainable code:
 
 The backend leverages cutting-edge technologies like Docker, SQLAlchemy, AsyncPG, and Redis to provide a solid foundation for an online taxi platform.
 
-For detailed documentation on the backend components and how to set up and run the backend system, please refer to the Backend Repository
-
 ## Frontend
 
 Completing Our Puzzle pieces started with the Backend, we needed access to API anywhere in the application, working with maps and handling authentication and private (authentication required) so we explored best practices for implementing frontend code and having a cleaner and more scalable code so we used these methods and React.js libraries:
