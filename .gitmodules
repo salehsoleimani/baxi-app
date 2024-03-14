@@ -1,0 +1,6 @@
+[submodule "baxi-client"]
+	path = baxi-client
+	url = git@github.com:salehsoleimani/baxi-client.git
+[submodule "baxi-api"]
+	path = baxi-api
+	url = git@github.com:salehsoleimani/baxi-api.git
