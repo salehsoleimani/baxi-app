@@ -179,6 +179,7 @@ To get Baxi up and running in your local environment, follow these steps:
 8. **Cd into the Frontend Directory:** `cd ../baxi-client`
 9. **Run or Build the Client Server:** `npm start`
 
-Note: for dependencies to work you need to set up the event loop and worker threads manually by the 6th command
+> [!NOTE]  
+> for dependencies to work you need to set up the event loop and worker threads manually by the 6th command
 
 You can now access the backend server at port 4000 and the frontend side at port 3000
