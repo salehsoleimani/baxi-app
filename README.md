@@ -20,8 +20,6 @@
 Baxi is an application that allows passengers to hail a ride and drivers to charge fares and get paid.
 It uses Fastapi as the backend framework and React as the frontend framework. more specifically Baxi was a practice-to-practice system and database design, designing a DBMS as performant as possible and breaking an almost big project into smaller pieces and trying to handle them in a precise way so we precise database performance, extensibility, and maintainability, trying to proceed according to a framework to have a clean, scalable, re-usable architecture and code using design patterns helpful in working with databases. one more key factor that was crucial for us was security and protect our database, API and frontend code all in a same line against XSS, XSRF attacks and also using rate limiting trying to control traffic flow to the server by restricting the number of requests from vulnerable endpoints.
 
-<img src="./README_assets/cover.png">
-
 ## Technologies
 
 ### Backend API
