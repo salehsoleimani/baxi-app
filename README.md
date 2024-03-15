@@ -25,47 +25,34 @@ It uses Fastapi as the backend framework and React as the frontend framework. mo
 ### Backend API
 
 <p>
-   &emsp; 
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  &emsp; 
     <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-  &emsp; 
     <img alt="Jwt" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens">
-  &emsp; 
     <img alt="Fast Api" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
-  &emsp; 
     <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white">
 </p>
 
 ### DBMS
 
 <p>
-  &emsp; 
     <img alt="Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  &emsp; 
     <img alt="Docker" src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white">
 </p>
 
 ### Front-End
 
 <p> 
-  &emsp; 
     <img alt="Reactjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </a>
-    &emsp; 
     <img alt="React-Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
-        &emsp; 
             <img alt="React-Router" src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=OpenStreetMap&logoColor=white">
 </p>
 
 ### Design, Motions & Animations
 
 <p> 
-      &emsp;
         <img alt="Adone Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-  &emsp; 
     <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665">
-  &emsp; 
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
